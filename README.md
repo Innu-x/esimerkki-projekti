@@ -30,3 +30,4 @@ Tämä projekti on tarkoitettu harjoitteluun:
 Voit päivittää tätä projektia harjoituksen aikana, jotta opiskelijat voivat harjoitella `git pull` -komentoa.
 
 
+Fork-testaus
